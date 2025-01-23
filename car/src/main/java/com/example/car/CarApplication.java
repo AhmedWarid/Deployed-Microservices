@@ -19,7 +19,7 @@ public class CarApplication {
     public RestTemplate restTemplate() {
         RestTemplate restTemplate = new RestTemplate();
         SimpleClientHttpRequestFactory requestFactory = new SimpleClientHttpRequestFactory();
-        requestFactory.setConnectTimeout(5000);
+        requestFactory.setConnectTimeout(5001);
         requestFactory.setReadTimeout(5000);
         restTemplate.setRequestFactory(requestFactory);
 
