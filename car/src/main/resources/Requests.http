@@ -1,0 +1,32 @@
+### Get Requests with each technology
+
+GET http://localhost:8888/api/car
+
+###
+
+GET http://localhost:8888/api/car
+
+
+###
+
+GET http://localhost:8888/api/car
+
+### Post Requests with each technology
+
+POST http://localhost:8888/api/car
+
+{
+
+}
+###
+POST http://localhost:8888/api/car
+
+{
+}
+
+###
+POST http://localhost:8888/api/car
+
+{
+
+}
